@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Soumyajit Jalua</h1>
 <h3 align="center">Empowering the Future Through Technology</h3>
 
-<img align="right" alt="AI" width="400" src="https://www.google.com/imgres?q=artificial%20intelligence&imgurl=https%3A%2F%2Fimages.law.com%2Fcontrib%2Fcontent%2Fuploads%2Fsites%2F397%2F2023%2F03%2FBrain-Lightbulb-767x633.jpg&imgrefurl=https%3A%2F%2Fwww.law.com%2Flegaltechnews%2F2024%2F03%2F19%2Fthe-artificial-intelligence-glossary%2F&docid=A9E4tCjs3trMUM&tbnid=DOyMjB8WeH_mCM&vet=12ahUKEwiXjfjpvOKFAxWR4TgGHXY7BbM4ChAzegQIHxAA..i&w=767&h=633&hcb=2&ved=2ahUKEwiXjfjpvOKFAxWR4TgGHXY7BbM4ChAzegQIHxAA">
+<img align="right" alt="AI" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaPc99dDd9CgpNZRFkU9wMFW3zoy7MYyOsCFodg_0iDA&s">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumyajitjalua1&label=Profile%20views&color=0e75b6&style=flat" alt="soumyajitjalua1" /> </p>
 
