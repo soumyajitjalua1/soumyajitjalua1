@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumyajitjalua1&label=Profile%20views&color=0e75b6&style=flat" alt="soumyajitjalua1" /> </p>
 
-- 🔭 I’m currently working on [CleverQ 🤖](https://github.com/soumyajitjalua1/CleverQ-)
+- 🔭 I’m currently working on [StockVision-Pro](https://github.com/soumyajitjalua1/StockVision-Pro)
 
 - 🌱 I’m currently learning **Deep Learning**
 
