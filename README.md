@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [MelodyMoods](https://github.com/soumyajitjalua1/MelodyMoods)
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **RAG**
 
 - 📫 How to reach me **Soumyajitjalua@gmail.com**
 
