@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumyajitjalua1&label=Profile%20views&color=0e75b6&style=flat" alt="soumyajitjalua1" /> </p>
 
-- 🔭 I’m currently working on [MelodyMoods](https://github.com/soumyajitjalua1/MelodyMoods)
+- 🔭 I’m currently working on [TripTailor:AI Travel Planner](https://github.com/soumyajitjalua1/TravelApp)
 
 - 🌱 I’m currently learning **RAG**
 
