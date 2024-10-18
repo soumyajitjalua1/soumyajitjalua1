@@ -11,11 +11,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://twitter.com/your_twitter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="your_twitter" height="30" width="40" /></a>
-    <a href="https://linkedin.com/in/your_linkedin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your_linkedin" height="30" width="40" /></a>
-    <a href="https://kaggle.com/your_kaggle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="your_kaggle" height="30" width="40" /></a>
-    <a href="https://instagram.com/your_instagram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="your_instagram" height="30" width="40" /></a>
-    <a href="https://www.leetcode.com/your_leetcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="your_leetcode" height="30" width="40" /></a>
+    <a href="https://x.com/Soumyajitjalua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="your_twitter" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/in/soumyajit-jalua-09a98a270/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your_linkedin" height="30" width="40" /></a>
+    <a href="https://www.kaggle.com/soumyajitjalua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="your_kaggle" height="30" width="40" /></a>
+    <a href="https://www.instagram.com/soumyajit.1234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="your_instagram" height="30" width="40" /></a>
+    <a href="https://leetcode.com/u/Soumyajitjalua1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="your_leetcode" height="30" width="40" /></a>
 </p>
 
 ## Languages and Tools 
