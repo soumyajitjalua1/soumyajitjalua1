@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Soumyajit!</h1>
 <h3 align="center">App Developer | AI Enthusiast | Specializing in Flutter, React, and Data Visualization.</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=soumyajitjalua1&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="left"> 
-  <a href="https://twitter.com/your_twitter" target="blank">
+  <a href="https://x.com/home?lang=en" target="blank">
     <img src="https://img.shields.io/twitter/follow/your_twitter?logo=twitter&style=for-the-badge" alt="your_twitter" />
   </a>
 </p>
@@ -66,18 +66,18 @@
 ---
 
 <p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=yourusername&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=soumyajitjalua1&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
 
 ---
 
 <p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=vision-friendly-dark">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=soumyajitjalua1&show_icons=true&theme=vision-friendly-dark">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumyajitjalua1&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
 </p>
 
 <div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=orange" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=soumyajitjalua1&style=for-the-badge&color=orange" alt=""/>
 </div>
 
 <p align="center">
