@@ -4,7 +4,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=soumyajitjalua1&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="left"> 
-  <a href="https://x.com/home?lang=en" target="blank">
+  <a href="https://x.com/Soumyajitjalua" target="blank">
     <img src="https://img.shields.io/twitter/follow/your_twitter?logo=twitter&style=for-the-badge" alt="your_twitter" />
   </a>
 </p>
