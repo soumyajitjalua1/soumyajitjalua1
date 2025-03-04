@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Soumyajit!</h1>
-<h3 align="center">App Developer | AI Enthusiast | Specializing in Flutter, React, and Data Visualization.</h3>
+<h3 align="center">AI Engineer | AI Enthusiast | Data Scientist | Specializing in Flutter, React, and Data Visualization.</h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=soumyajitjalua1&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
