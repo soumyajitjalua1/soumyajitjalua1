@@ -5,13 +5,13 @@
 Researching cache-aware decoding & hallucination reduction in LLMs · Teaching AI/ML/DL to undergrads · Building applied AI systems (RAG, OCR-LLM pipelines, edge AI)
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/soumyajit-jalua-09a98a270/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/Soumyajitjalua" target="blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://www.kaggle.com/soumyajitjalua" target="blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/Soumyajitjalua1/" target="blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href="https://orcid.org/0009-0009-6068-3433" target="blank"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" /></a>
-  <a href="https://soumyajit-jalua-portfolio.vercel.app/" target="blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<p align="left">
+    <a href="https://www.linkedin.com/in/soumyajit-jalua-09a98a270/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+    <a href="https://x.com/Soumyajitjalua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
+    <a href="https://www.kaggle.com/soumyajitjalua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle" height="30" width="40" /></a>
+    <a href="https://leetcode.com/u/Soumyajitjalua1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a>
+    <a href="https://orcid.org/0009-0009-6068-3433" target="blank"><img align="center" src="https://cdn.simpleicons.org/orcid/A6CE39" alt="orcid" height="30" width="30" /></a>
+    <a href="https://soumyajit-jalua-portfolio.vercel.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/web.svg" alt="portfolio" height="30" width="40" /></a>
 </p>
 
 ---
@@ -28,40 +28,34 @@ Researching cache-aware decoding & hallucination reduction in LLMs · Teaching A
 ### 🛠️ Tech Stack
 
 **Languages**
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
-</p>
 
-**AI / ML**
-<p>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-</p>
+| Python | C++ | JavaScript | Dart | SQL |
+|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" width="45" height="45"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="C++" width="45" height="45"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" width="45" height="45"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" title="Dart" width="45" height="45"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" title="SQL" width="45" height="45"/> |
 
-**Data & Tools**
-<p>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
-</p>
+**Machine Learning & AI**
 
-**Frameworks**
-<p>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-</p>
+| PyTorch | TensorFlow | Keras | Scikit-learn | OpenCV |
+|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" title="PyTorch" width="45" height="45"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" width="45" height="45"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" title="Keras" width="45" height="45"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" title="Scikit-learn" width="45" height="45"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" title="OpenCV" width="45" height="45"/> |
+
+**Data & Manipulation**
+
+| NumPy | Pandas | Jupyter | PostgreSQL | MongoDB | MySQL |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg" title="NumPy" width="45" height="45"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" title="Pandas" width="45" height="45"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" width="45" height="45"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="45" height="45"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" title="MongoDB" width="45" height="45"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" width="45" height="45"/> |
+
+**Frameworks & Cloud**
+
+| React | Flutter | Node.js | AWS | Power BI |
+|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React" width="45" height="45"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" title="Flutter" width="45" height="45"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="Node.js" width="45" height="45"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" width="45" height="45"/> | <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" title="Power BI" width="45" height="45"/> |
+
+**Tools**
+
+| Git | GitHub | VS Code |
+|:---:|:---:|:---:|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" title="Git" width="45" height="45"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" title="GitHub" width="45" height="45"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" title="VS Code" width="45" height="45"/> |
 
 ---
 
